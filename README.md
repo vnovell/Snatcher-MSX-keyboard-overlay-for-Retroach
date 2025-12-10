@@ -15,9 +15,20 @@ The's also a 'Fast Forward' button for convenience.
 Uncompress the file, and copy 
 
 # Screenshots
-<img width="1080" height="2300" alt="image" src="https://github.com/user-attachments/assets/a9dbba10-3f39-4b6e-a8e9-c8c649ad5452" />
-<img width="2300" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8d5f998-0e19-4489-a28a-d7bd52520275" />
+<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/80bbc900-fe87-483e-8f44-4826f0ee4959" />
+Keyboard (landscape orientation)
 
+<img width="540" height="1150" alt="image" src="https://github.com/user-attachments/assets/28454d62-3b4e-478b-b59c-7b6d545a137e" />
+Keyboard (portrait orientation)
+
+
+Joypad (landscape orientation)
+
+Joypad (portrait orientation)
+
+Full Keyboard (landscape orientation)
+
+Full Keyboard (portrait orientation)
 
 
 # Notes
