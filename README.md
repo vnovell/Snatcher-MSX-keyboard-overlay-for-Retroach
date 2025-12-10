@@ -11,8 +11,14 @@ There's 3 overlays:
 
 The's also a 'Fast Forward' button for convenience.
 
+
 # Instalation
-Uncompress the file, and copy 
+Uncompress the file, and copy the folder 'msx-snatcher' to ..\RetroArch\overlays\
+
+On Retroarch: Quick Menu > On-Screen Overlay > Overlay Preset >
+
+Choose: ..\RetroArch\overlays\msx-snatcher\msx-snatcher.cfg
+
 
 # Screenshots
 <img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/19f2e86d-a921-4a05-87ee-12b5b2417f5d" />
