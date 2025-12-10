@@ -52,7 +52,16 @@ Full Keyboard (portrait orientation)
 
 
 # Notes
-Based on Retroarch Overlay 'keyboard/commodore/plus4.cfg'.
+Based on Retroarch Overlay '..\Retroarch\common-overlays-master\keyboards\commodore\plus4.cfg'.
+
 Created with [Retropad Editor](https://valent-in.github.io/retropad-editor/).
 
 The overlay mimics (a little bit) the japanese Toshiba HX10D layout.
+
+
+# TO-DOs
+Fix erros.
+
+Make it look more like a MSX keyboard.
+
+Set 'Previous Disk' and 'Next Disk' keys to work.
