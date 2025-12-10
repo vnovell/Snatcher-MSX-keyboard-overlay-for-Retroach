@@ -15,18 +15,32 @@ The's also a 'Fast Forward' button for convenience.
 Uncompress the file, and copy 
 
 # Screenshots
-<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/80bbc900-fe87-483e-8f44-4826f0ee4959" />
+<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/19f2e86d-a921-4a05-87ee-12b5b2417f5d" />
+
 Keyboard (landscape orientation)
 
-<img width="540" height="1150" alt="image" src="https://github.com/user-attachments/assets/28454d62-3b4e-478b-b59c-7b6d545a137e" />
+<img width="540" height="1150" alt="image" src="https://github.com/user-attachments/assets/b659672e-0046-47f7-8df0-52d3617f73fd" />
+
+
 Keyboard (portrait orientation)
 
 
+<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/80bbc900-fe87-483e-8f44-4826f0ee4959" />
+
 Joypad (landscape orientation)
+
+
+<img width="540" height="1150" alt="image" src="https://github.com/user-attachments/assets/28454d62-3b4e-478b-b59c-7b6d545a137e" />
 
 Joypad (portrait orientation)
 
+
+<img width="1150" height="540" alt="image" src="https://github.com/user-attachments/assets/eff2e9b9-6703-4abb-9bc4-259dd3ca180b" />
+
 Full Keyboard (landscape orientation)
+
+
+<img width="540" height="1150" alt="image" src="https://github.com/user-attachments/assets/163a3c59-f17d-468c-878e-0f0d5044035d" />
 
 Full Keyboard (portrait orientation)
 
