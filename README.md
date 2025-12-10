@@ -53,9 +53,9 @@ Full Keyboard (portrait orientation)
 
 
 # Notes
-Based on [Common-Overlays Repo](https://forums.libretro.com/t/common-overlays-repo/1029), specifically on [https://github.com/libretro/common-overlays/tree/master/keyboards/commodore](https://github.com/libretro/common-overlays/tree/master/keyboards/commodore)
+Based on [Common-Overlays Repo](https://forums.libretro.com/t/common-overlays-repo/1029), specifically on [https://github.com/libretro/common-overlays/tree/master/keyboards/commodore](https://github.com/libretro/common-overlays/tree/master/keyboards/commodore).
 
-Created with [Retropad Editor](https://valent-in.github.io/retropad-editor/).
+Adapted with the use of [Retropad Editor](https://valent-in.github.io/retropad-editor/).
 
 The overlay mimics (a little bit) the japanese Toshiba HX10D layout.
 
