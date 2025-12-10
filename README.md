@@ -15,6 +15,8 @@ The's also a 'Fast Forward' button for convenience.
 Uncompress the file, and copy 
 
 # Screenshots
+<img width="1080" height="2300" alt="image" src="https://github.com/user-attachments/assets/a9dbba10-3f39-4b6e-a8e9-c8c649ad5452" />
+<img width="2300" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8d5f998-0e19-4489-a28a-d7bd52520275" />
 
 
 
