@@ -53,7 +53,7 @@ Full Keyboard (portrait orientation)
 
 
 # Notes
-Based on Retroarch Overlay '..\Retroarch\common-overlays-master\keyboards\commodore\plus4.cfg'.
+Based on [Common-Overlays Repo](https://forums.libretro.com/t/common-overlays-repo/1029), specifically on [https://github.com/libretro/common-overlays/tree/master/keyboards/commodore](https://github.com/libretro/common-overlays/tree/master/keyboards/commodore)
 
 Created with [Retropad Editor](https://valent-in.github.io/retropad-editor/).
 
