@@ -7,7 +7,7 @@ There are 3 overlays:
 
 **2 - Joypad**: a 9-way joypad and an 'action button' (that need to be hold to fire the gun), for the action scenes
 
-**3 - Full Keyboard**: a fully functional MSX keyboard, useful to use the Junqer HQ computer.
+**3 - Full Keyboard**: a fully functional MSX keyboard, useful to use the Junker HQ computer.
 
 There is also a **'Fast Forward'** button for convenience.
 
